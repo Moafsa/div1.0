@@ -46,7 +46,7 @@ Sistema completo de gestão para lanchonetes com funcionalidades de pedidos, mes
 
 ### 1. Configuração no Coolify
 
-1. **Conecte o repositório**: `https://github.com/Moafsa/div1.0`
+1. **Conecte o repositório**: `https://github.com/Moafsa/divinosys.git`
 2. **Selecione o branch**: `main`
 3. **Configure as variáveis de ambiente**:
 
@@ -102,8 +102,8 @@ O Coolify irá:
 
 ### Instalação
 ```bash
-git clone https://github.com/Moafsa/div1.0.git
-cd div1.0
+git clone https://github.com/Moafsa/divinosys.git
+cd divinosys
 docker-compose up -d
 ```
 
@@ -153,7 +153,7 @@ docker-compose up -d
 ## 📞 Suporte
 
 Para suporte ou dúvidas:
-- **Issues**: [GitHub Issues](https://github.com/Moafsa/div1.0/issues)
+- **Issues**: [GitHub Issues](https://github.com/Moafsa/divinosys/issues)
 - **Documentação**: Veja os arquivos `.md` no projeto
 
 ## 📄 Licença
